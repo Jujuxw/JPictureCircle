@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bar Harbor1</key>
+	<string>1.JPG</string>
+	<key>Bar Harbor2</key>
+	<string>2.JPG</string>
+	<key>Bar Harbor3</key>
+	<string>3.JPG</string>
+	<key>Bar Harbor4</key>
+	<string>4.JPG</string>
+	<key>Bar Harbor5</key>
+	<string>5.JPG</string>
+	<key>Bar Harbor6</key>
+	<string>6.JPG</string>
+	<key>Bar Harbor7</key>
+	<string>0.JPG</string>
+</dict>
+</plist>

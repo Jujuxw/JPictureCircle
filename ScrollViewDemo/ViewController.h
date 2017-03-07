@@ -10,6 +10,21 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, strong) UIImageView *leftImageView;
+
+@property (nonatomic, strong) UIImageView *centerImageView;
+
+@property (nonatomic, strong) UIImageView *rightImageView;
+
+@property (nonatomic, strong) UIScrollView *scrollView;
+
+@property (nonatomic, strong) UIPageControl *pageController;
+
+@property (nonatomic, strong) NSMutableDictionary *imageDataDic;
+
+@property (nonatomic, assign) int currentPageIndex;
+
+@property (nonatomic, assign) int imageCount;
 
 @end
 
